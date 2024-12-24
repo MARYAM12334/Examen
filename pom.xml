@@ -16,7 +16,8 @@
 		<module>ConfigServer</module>
 		<module>RegistrationService</module>
 		<module>GatewayService</module>
-		<module>PaymentService</module>
+		<module>Notification</module>
+		<module>Ordre</module>
 	</modules>
 
 	<groupId>com.example</groupId>
